@@ -14,3 +14,7 @@ Users can more easily orient themselves within a longer document with this featu
 ## More information
 
 The links on the left have more information about some key features for writers.
+
+## Try the examples
+
+Use the pages in the navigation as examples when building your own documentation. They show patterns for code samples, tables, tabs, diagrams, and Markdoc content. Adapt the examples to fit your project, and add new pages to `sidebars.yaml` so readers can find them.
