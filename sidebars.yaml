@@ -1,0 +1,9 @@
+- page: index.md
+- page: partials.md
+- page: markdoc/markdoc/about.md
+- group: Features
+  items:
+    - page: code.md
+    - page: tables.md
+    - page: tabs.md
+    - page: diagrams.md

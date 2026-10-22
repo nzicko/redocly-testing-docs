@@ -1,0 +1,28 @@
+{
+  "name": "redocly-revel-docs-starter",
+  "version": "1.0.0",
+  "description": "A starter project for working with Revel",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Redocly/revel-docs-starter.git"
+  },
+  "keywords": [
+    "documentation",
+    "DocsAsCode",
+    "starter",
+    "example"
+  ],
+  "author": "team@redocly.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Redocly/revel-docs-starter/issues"
+  },
+  "homepage": "https://github.com/Redocly/revel-docs-starter#readme",
+  "dependencies": {
+    "@redocly/revel": "^0.98.1"
+  }
+}
